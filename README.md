@@ -88,9 +88,9 @@ pip install -r requirements.txt
 ```bash
 python -m venv venv      Copy in cmd
 venv\Scripts\activate
-pip install torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/test/cu124    Copy in cmd
+python pip install torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/test/cu124    Copy in cmd
 python pip install -r "D:\Projects\cd Run_Me_Ai_Video\requirements.txt"    Copy in cmd
- SANME THING SHITF+ RIGHT CLICK, AND COPY AS PATH, THEN REMOVE IN YOUR CASE: 
+ SANME THING SHITF+ RIGHT CLICK, AND COPY AS PATH, THEN REMOVE IN YOUR CASE:
 python pip install -r___ _____ ____ ____.txt
 REMOVE THE QUOTES ALSO
 Must be in venv >> scritps >> activate >>
