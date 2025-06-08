@@ -99,7 +99,7 @@ python -m pip install -r "D:\Projects\Wan2GP\requirements.txt"
 > *Empowering creators to generate high-quality videos effortlessly.*
 
 <p align="center">
-  <img src="assets/teaser.png" alt="Run Me AI Video Teaser" width="95%">
+  <img src="assets/teaser" alt="Run Me AI Video Teaser" width="95%">
 </p>
 
 ---
