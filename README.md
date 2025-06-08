@@ -62,7 +62,7 @@
 
 ---
 
-### 6. 
+### 6. Clone or copy the Repository
 ```bash
 1. Press **Alt + D**, type `cmd`, and press **Enter** to open Command Prompt there.  
 2. In Command Prompt, run:      MUST BE IN COMMAND LINE
