@@ -66,8 +66,8 @@
 ```bash
 1. Press **Alt + D**, type `cmd`, and press **Enter** to open Command Prompt there.  
 2. In Command Prompt, run:      MUST BE IN COMMAND LINE
-3. git clone https://github.com/MyCroniesSoft/Run_Me_Ai_Video.git
-4. cd Run_Me_Ai_Video
+3. git clone https://github.com/MyCroniesSoft/Run_Me_Ai_Video.git  Copy in cmd
+4. cd Run_Me_Ai_Video                                              Copy in cmd
 
 ```
 
@@ -86,10 +86,11 @@ pip install -r requirements.txt
 
 ### 8. Setup `venv` (Easy Way)
 ```bash
-python -m venv venv
+python -m venv venv      Copy in cmd
 venv\Scripts\activate
-pip install torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/test/cu124
-python pip install -r "D:\Projects\cd Run_Me_Ai_Video\requirements.txt" SANME THING SHITF+ RIGHT CLICK, AND COPY AS PATH, THEN REMOVE IN YOUR CASE: 
+pip install torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/test/cu124    Copy in cmd
+python pip install -r "D:\Projects\cd Run_Me_Ai_Video\requirements.txt"    Copy in cmd
+ SANME THING SHITF+ RIGHT CLICK, AND COPY AS PATH, THEN REMOVE IN YOUR CASE: 
 python pip install -r___ _____ ____ ____.txt
 REMOVE THE QUOTES ALSO
 Must be in venv >> scritps >> activate >>
