@@ -93,29 +93,6 @@ python -m pip install -r "D:\Projects\Wan2GP\requirements.txt"
 ### 9. Create a `run.bat` File *(optional but recommended)*
 
 ---
-
-## ✨ Features
-> A unified framework for sketching, text-guided, and subject-consistent video generation with state-of-the-art methods.  
-> *Empowering creators to generate high-quality videos effortlessly.*
-
-<p align="center">
-  <img src="assets/teaser" alt="Run Me AI Video Teaser" width="95%">
-</p>
-
----
-
-## 🔥 Latest News
-- **May 1, 2025:** Full version released — faster and higher quality.
-- **May 3, 2025:** Multi-GPU support via FSDP.
-- **May 10, 2025:** Experimental editor interface launched.
-
----
-
-## 📑 Todo List
-- [x] Release initial inference code and checkpoints
-- [ ] Add advanced training scripts
-- [ ] Expand documentation
-
 ---
 
 ## 📖 Overview
