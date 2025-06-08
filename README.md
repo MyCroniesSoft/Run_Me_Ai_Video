@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Setup Guide for Wan2GP (Windows)
+## 🛠️ Setup Guide for (Windows)
 
 > ⚠️ **Note:** If you have Pinokio installed, delete/purge it before proceeding.
 
@@ -128,3 +128,5 @@ Run Me AI Video is a place to test video paramaters, for example you want that s
 git clone https://github.com/MyCroniesSoft/Run_Me_Ai_Video.git
 cd Run_Me_Ai_Video
 ```
+
+Models provided, are from phantom, alibaba, and tencent, you can check their repository out.
