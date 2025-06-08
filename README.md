@@ -92,7 +92,7 @@ python pip install torch==2.6.0 torchvision torchaudio --index-url https://downl
 python pip install -r "D:\Projects\cd Run_Me_Ai_Video\requirements.txt"    Copy in cmd
  SANME THING SHITF+ RIGHT CLICK, AND COPY AS PATH, THEN REMOVE IN YOUR CASE:
 python pip install -r___ _____ ____ ____.txt
-REMOVE THE QUOTES ALSO
+
 Must be in venv >> scritps >> activate >>
 Then  Press **Alt + D**, type `cmd`, and press **Enter** to open Command Prompt there and copy above, its pretty much straight forward.
 
