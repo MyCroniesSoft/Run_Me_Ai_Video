@@ -41,13 +41,14 @@
 ---
 
 ### 4. Update Environment Variables (PATH)
-1. Search "Environment Variables" → open system settings.
-2. Under **System variables** → edit **Path**.
-3. Add:
+1. Press **Windows Key**, type `Environment Variables`, and open **Edit the system environment variables**.  
+2. Click **Environment Variables…**.  
+3. Under **System variables**, select **Path**, then click **Edit…**.  
+4. Click **New** and add these entries (adjust if Python was installed elsewhere):  
    ```
    C:\Python310
    C:\Python310\Scripts
-   ```
+   ```  
 
 ---
 
@@ -63,9 +64,13 @@
 
 ### 6. 
 ```bash
-git clone https://github.com/MyCroniesSoft/Run_Me_Ai_Video.git
-cd Run_Me_Ai_Video
+1. Press **Alt + D**, type `cmd`, and press **Enter** to open Command Prompt there.  
+2. In Command Prompt, run:      MUST BE IN COMMAND LINE
+3. git clone https://github.com/MyCroniesSoft/Run_Me_Ai_Video.git
+4. cd Run_Me_Ai_Video
+
 ```
+
 
 ---
 
@@ -84,9 +89,30 @@ pip install -r requirements.txt
 python -m venv venv
 venv\Scripts\activate
 pip install torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/test/cu124
-python -m pip install -r "D:\Projects\cd Run_Me_Ai_Video\requirements.txt"
+python pip install -r "D:\Projects\cd Run_Me_Ai_Video\requirements.txt" SANME THING SHITF+ RIGHT CLICK, AND COPY AS PATH, THEN REMOVE IN YOUR CASE: 
+python pip install -r___ _____ ____ ____.txt
+REMOVE THE QUOTES ALSO
+Must be in venv >> scritps >> activate >>
+Then  Press **Alt + D**, type `cmd`, and press **Enter** to open Command Prompt there and copy above, its pretty much straight forward.
+
 ```
 > Replace `D:\Projects\cd Run_Me_Ai_Video` with your actual path and drive letter if needed.
+>
+> 3. Press **Alt + D**, type `cmd`, and press **Enter**.  
+4. Create a virtual environment:   
+   ```bash
+   python -m venv venv                 MUST BE IN COMMAND LINE
+   ```
+   - The first `venv` is the module; the second is the folder name.  
+   - You can name the folder anything (e.g., `venv_donkey`, `venv_ass`), but `venv` is common.
+
+5. Activate the `venv`:
+   ```bash
+   venv\Scripts\activate                   MUST BE IN COMMAND LINE
+   ```
+6. Install dependencies:
+   ```bash
+   python -m pip install -r requirements.txt            MUST BE IN COMMAND LINE
 
 ---
 
