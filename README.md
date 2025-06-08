@@ -21,7 +21,7 @@
 
 ### 1. Choose a Drive
 - Pick a drive (e.g., `C:` or `D:`).
-- Create or use a folder like `D:\Projects\Wan2GP`.
+- Create or use a folder like `D:\Projects\un_Me_Ai_Video`.
 
 ---
 
@@ -61,10 +61,10 @@
 
 ---
 
-### 6. Clone Wan2GP Repo
+### 6. 
 ```bash
-git clone https://github.com/deepbeepmeep/Wan2GP.git
-cd Wan2GP
+git clone https://github.com/MyCroniesSoft/Run_Me_Ai_Video.git
+cd Run_Me_Ai_Video
 ```
 
 ---
