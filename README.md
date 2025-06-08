@@ -71,8 +71,8 @@ cd Run_Me_Ai_Video
 
 ### 7. (Optional) Setup Conda Environment
 ```bash
-conda create -n wan2gp python=3.10.9
-conda activate wan2gp
+conda create -n cd Run_Me_Ai_Video python=3.10.9
+conda activate cd Run_Me_Ai_Video
 pip install torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/test/cu124
 pip install -r requirements.txt
 ```
@@ -84,13 +84,13 @@ pip install -r requirements.txt
 python -m venv venv
 venv\Scripts\activate
 pip install torch==2.6.0 torchvision torchaudio --index-url https://download.pytorch.org/whl/test/cu124
-python -m pip install -r "D:\Projects\Wan2GP\requirements.txt"
+python -m pip install -r "D:\Projects\cd Run_Me_Ai_Video\requirements.txt"
 ```
-> Replace `D:\Projects\Wan2GP` with your actual path and drive letter if needed.
+> Replace `D:\Projects\cd Run_Me_Ai_Video` with your actual path and drive letter if needed.
 
 ---
 
-### 9. Create a `run.bat` File *(optional but recommended)*
+### 9. `run.bat` File
 
 ---
 ---
